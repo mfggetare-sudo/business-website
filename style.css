@@ -1,0 +1,25 @@
+css
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    text-align: center; 
+}
+h1{
+    color: darkgreen;
+}
+h2{
+    color: blue;
+}
+nav{
+background-color: green;
+padding: auto;    
+}
+nav a{
+color: aliceblue;    
+margin: 15px;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover{
+color: yellow
+}

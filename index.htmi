@@ -1,0 +1,44 @@
+<!Doctype html>
+<html>
+<head>
+    <title>GJR PACKAGING SOLUTUON</title>
+<link rel="stylesheet" 
+href="style.css">
+<style>
+body {
+    font-family: arial, sans-serif
+    padding: 20px
+}
+/*logo styling*/
+.logo {
+    text-alingn: center; /*center the logo at the top */
+    margin-bottom: 30px; /* space between logo and other content */
+}
+h1 {
+    text-alingn: center
+    margin-bottom: 20px;
+}
+</style>
+</head>
+<body>
+<!-- logo at the top -->
+<div class="logo">
+<img scr="20251005_192547.png" alt="my business logo" width="150">
+</div>
+<nav>
+<a herf="index.html">home</a>
+<a herf="products.html">products</a>
+<a herf="contact.html">contact</a>
+</nav>
+<hi>welcome to GJR EMPTY TEABAG/HERBAL PACKAGING SOLUTUON</hi>
+<p>we provide you with everything you need for your perfect tea packaging.</P>
+<h2>our services</h2>
+<ul>
+<li>YOUR EMPTY TEABAG 1</li>
+<li>POUCHES AND ZIPLOCK OF DIFFERENT COLOURS AND SIZE 2</li>
+<li>and other packaging tools 3</li>
+</ul>
+<h2>contact us on +2349162325721 or +2348037127814</h2>
+<p>EMAIL: gjr4you@gmail.com
+</body>
+</html>
